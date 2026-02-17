@@ -1,0 +1,8 @@
+{
+  "patient_id": "INVALID",
+  "age": 15,
+  "gender": "X",
+  "enrollment_date": "2025-12-31",
+  "site_id": "SITE001",
+  "consent_signed": false
+}

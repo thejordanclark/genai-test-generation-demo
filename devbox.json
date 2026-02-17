@@ -1,0 +1,24 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.14.2/.schema/devbox.schema.json",
+  "packages": [
+    "python@3.13",
+    "python313Packages.pytest@8.4",
+    "python313Packages.pytest-cov@6.2",
+    "python313Packages.pip@25.3",
+    "python313Packages.hypothesis@6.145",
+    "python313Packages.pandas@2.3",
+    "python313Packages.faker@37.5",
+    "python313Packages.jsonschema@4.25",
+    "python313Packages.pytest-html@4.1"
+  ],
+  "shell": {
+    "init_hook": [
+      "echo 'Welcome to devbox!' > /dev/null"
+    ],
+    "scripts": {
+      "test": [
+        "echo \"Error: no test specified\" && exit 1"
+      ]
+    }
+  }
+}

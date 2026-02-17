@@ -1,0 +1,8 @@
+{
+  "patient_id": "PAT000001",
+  "age": 45,
+  "gender": "F",
+  "enrollment_date": "2024-01-15",
+  "site_id": "SITE001",
+  "consent_signed": true
+}
