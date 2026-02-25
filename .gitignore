@@ -9,3 +9,5 @@ reports/coverage/
 .vscode/
 .DS_Store
 .hypothesis/
+.devbox
+.venv
